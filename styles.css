@@ -1,24 +1,30 @@
 body {
-    font-family: helvetica, sans-serif;
-    width: 350px;
-  }
+  font-family: helvetica, sans-serif;
+  width: 350px;
+}
 
-  label {
-    font-weight: bold;  
-  }
+.container {
+  padding: 50px;
+}
 
-  div {
-    padding-bottom: 20px;
-  }
+label {
+  font-weight: bold;
+}
 
-  input[type="text"] {
-    padding: 5px;
-    width: 150px;
-  }
+div {
+  padding-bottom: 20px;
+}
 
-  p {
-    background: #FFC125;
-    color: #5E2612;
-    padding: 10px;
-    visibility: hidden;
-  }
+input[type="text"] {
+  padding: 5px;
+  width: 150px;
+}
+
+p {
+  background: rgb(255, 240, 37);
+  color: #5e2612;
+  padding: 10px;
+  visibility: hidden;
+  font-size: 18px;
+  width: 400px;
+}
